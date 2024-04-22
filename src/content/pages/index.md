@@ -30,3 +30,11 @@ What Industries do I cover?
 1. HR
 2. Technology
 3. Publishing
+
+
+# I'm discovering some things.
+## What am I discovering?
+I'm learning some fun new things about Markdown and GitHub. These include:
+- It may be ok that I left my big laptop at home because I can edit this right on GitHub
+- Things are turning bold on and off and I don't know why and it's scaring me a little bit
+- yippeeeee
